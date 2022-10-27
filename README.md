@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center">|===========================================================================================|</p>
+<p align="center">|=======================================================================================|</p>
 <h1 align="center"> Faradayy over here. Also known as Muhammad Fariz Aditya Pratama. </h1>
-<p align="center">|===========================================================================================|</p>
+<p align="center">|=======================================================================================|</p>
 
 ### About me ???
 #### Currently am a Computer Science Student at Diponegoro University.
