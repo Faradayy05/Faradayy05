@@ -1,9 +1,12 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-### Hi there 👋, My name is Muhammad Fariz Aditya Pratama
-#### I am a Computer Science Student at Diponegoro University
+<p align="center">|===========================================================================================|</p>
+<h1 align="center"> Faradayy over here. Also known as Muhammad Fariz Aditya Pratama. </h1>
+<p align="center">|===========================================================================================|</p>
 
-Just a boy that want to learn deep about computer science furthermore.
+### About me ???
+#### Currently am a Computer Science Student at Diponegoro University.
+#### Just a boy that want to learn deep about computer science furthermore.
 
 ![Faradayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=faradayy05&show_icons=true&theme=radical)
 
