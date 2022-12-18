@@ -14,8 +14,8 @@
 
 ### Contact Me :
 <p align="left">
-  <a href="https://instagram.com/farisaditya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calvindoro_homosapien" height="50" width="50" /></a>
-  <a href="https://twitter.com/farisaditya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calvindoro_homosapien" height="50" width="50" /></a>
-  <a href="https://www.facebook.com/muhammadfarisadityapratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calvindoro_homosapien" height="50" width="50" /></a>
-  <a href="https://discordapp.com/users/392339854769520642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="calvindoro_homosapien" height="50" width="50" /></a>
+  <a href="https://instagram.com/farisaditya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50" /></a>
+  <a href="https://twitter.com/farisaditya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/farisaditya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a>
+  <a href="https://discordapp.com/users/392339854769520642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50" width="50" /></a>
 </p>
