@@ -4,8 +4,7 @@
 <h1 align="center">Faradayy over here. It's me Muhammad Fariz Aditya Pratama.</h1>
 <p align="center">|=======================================================================================|</p>
 
-### About me ???
-  #### 🎓 Currently am a Computer Science Student at Diponegoro University. 
+### About me ??? 
   #### 📖 Just a boy that want to learn deep about computer science furthermore. 
 
 ![Faradayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=faradayy05&show_icons=true&theme=radical)
